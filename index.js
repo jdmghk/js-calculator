@@ -3,7 +3,7 @@
 const display = document.getElementById("display");
 
 
-function appendToDislay(input){
+function appendToDisplay(input){
     display.value += input;
 }
 
